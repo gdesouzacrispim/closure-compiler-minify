@@ -6,7 +6,7 @@
 			"url": "http://3.91.37.7:8080/rest/api/ctb/v1",
 			"variables": {
 				"serverUrl": {
-					"default": "localhost"
+					"default": "http://3.91.37.7:8080/rest"
 				},
 				"serverHttpPort": {
 					"default": "8080"
