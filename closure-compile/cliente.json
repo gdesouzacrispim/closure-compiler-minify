@@ -145,7 +145,7 @@
 					"content": {
 						"application/json": {
 							"schema": {
-								"$ref": "https://raw.githubusercontent.com/totvs/ttalk-standard-message/master/jsonschema/schemas/CustomerVendor_2_008.json#/definitions/customerVendorInfo"
+								"$ref": "https://raw.githubusercontent.com/gdesouzacrispim/closure-compiler-minify/main/closure-compile/requestCreateClient.json"
 							}
 						}
 					}
