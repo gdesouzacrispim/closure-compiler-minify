@@ -262,6 +262,7 @@
 				},
 				"type": {
 					"type": "integer",
+					"format": "int32",
 					"example": 1,
 					"description": "Tipo de Entidade",
 					"enum": [
