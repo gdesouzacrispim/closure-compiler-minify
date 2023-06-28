@@ -145,7 +145,7 @@
 					"content": {
 						"application/json": {
 							"schema": {
-								"$ref": "https://raw.githubusercontent.com/gdesouzacrispim/closure-compiler-minify/main/closure-compile/requestCreateClient.json"
+								"$ref": "https://raw.githubusercontent.com/gdesouzacrispim/closure-compiler-minify/main/closure-compile/requestCreateClient.json#/definitions/customerVendorInfo"
 							}
 						}
 					}
