@@ -3,13 +3,13 @@
 	"servers": [
 		{
 			"description": "API para Cadastro de Calendário Contábil - Produtos TOTVS",
-			"url": "http://18.215.243.131:8080/rest/api/ctb/v1",
+			"url": "http://23.23.235.207:8084/rest/api/ctb/v1",
 			"variables": {
 				"serverUrl": {
-					"default": "http://18.215.243.131"
+					"default": "http://23.23.235.207"
 				},
 				"serverHttpPort": {
-					"default": "8080"
+					"default": "8084"
 				}
 			}
 		}
